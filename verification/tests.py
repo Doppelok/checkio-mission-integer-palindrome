@@ -146,7 +146,7 @@ TESTS = {
             "explanation": "1_010_001, 1_000: large Base, small remainder"
         },
         {
-            "input": [9_909_009, 1000],
+            "input": [9909009, 1000],
             "answer": True,
             "explanation": "9_909_009, 1_000: large Base, large remainder"
         },
