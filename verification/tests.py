@@ -25,6 +25,10 @@ TESTS = {
     ],
     "Extra": [
         {
+            "input": [693, 1],
+            "answer": True
+        },
+        {
             "input": [693, 2],
             "answer": True
         },
